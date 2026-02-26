@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Kushagra 👋
 
-<!--
-**kushagrakaush1k/kushagrakaush1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI/ML Engineer · Final Year CS @ IPU · Delhi**
 
-Here are some ideas to get you started:
+I like building things that actually work, from computer vision systems to time series forecasting models. Currently in my final year and spending most of my time going deep on ML, one project at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**What I'm working on:**
+-  Heart Disease Prediction : KNN + Random Forest classification on clinical data
+-  Google Stock Forecasting : time series with Facebook Prophet
+-  Exploring object detection pipelines (YOLOv8, OpenCV)
+
+**Background:**
+- Final year B.Tech Computer Science at Guru Gobind Singh Indraprastha University.
+- Computer Vision Research Intern @ IIT Delhi : built object detection pipeline achieving 91% mAP
+- ML Intern @ Cloud4Things : deployed MobileNetV2 model to TensorFlow Lite for IoT edge devices
+- Previously built HonExam : an end-to-end AI proctoring system with 95% violation detection accuracy
+
+**Tech stack:** Python, TensorFlow, PyTorch, scikit-learn, OpenCV, Prophet, Pandas, NumPy, Flask, React.js
+
+**Interests:** Computer Vision, Time Series Forecasting, ML deployment, Open Source
+
+---
+
+### Let's connect:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kushagrashekharkaushik)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kushagrakaushik1k)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kushagrashekharkaushik@gmail.com)
