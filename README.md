@@ -6,6 +6,8 @@ I like building things that actually work, from computer vision systems to time 
 -  Heart Disease Prediction : KNN + Random Forest classification on clinical data · [Live Demo](https://heart-disease-prediction-ewwmmskz4hvjfieyvyjqpg.streamlit.app/)
 -  Google Stock Forecasting : time series with Facebook Prophet · [Live Demo](https://stock-price-prediction-lstm-mafteelnla8lryaiuucjeg.streamlit.app/)
 -  Exploring object detection pipelines (YOLOv8, OpenCV)
+
+  
 **Background:**
 - Final year B.Tech Computer Science at Guru Gobind Singh Indraprastha University.
 - Computer Vision Research Intern @ IIT Delhi : built object detection pipeline achieving 91% mAP
